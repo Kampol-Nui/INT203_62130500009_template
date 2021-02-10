@@ -7,7 +7,7 @@ const app = {
                     describe: 'I am an android developer working at google Inc at california,USA',
                     like: false,
                     img:'./images/cat1.jpeg',
-                    fav:'./images/.fav.png'
+                    
                 },
                 {
                     fullname: 'Simona Disa',
@@ -15,7 +15,7 @@ const app = {
                     describe: 'I am an Graphics Designer working at google Inc at california,USA',
                     like: false,
                     img:'./images/cat2.jpg',
-                    fav:'./images/.fav.png'
+                    
                 },
                 {
                     fullname: 'John Smith',
@@ -23,7 +23,7 @@ const app = {
                     describe: 'I am an Java Architect working at google Inc at california,USA',
                     like: false,
                     img:'./images/cat3.jpg',
-                    fav:'./images/.fav.png'
+                   
                 }
             ]
         }
